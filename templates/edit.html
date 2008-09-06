@@ -1,0 +1,16 @@
+$def with (page, slug)
+$var title: Editing '$slug'
+
+<form method="post">
+  <label>
+    Page Title:<br />
+    <input type="text" name="title" value="$page.title" />
+  </label>
+  <br />
+  <label>
+    Content:<br />
+    <textarea name="body">$page.body</textarea>
+  </label>
+  <br />
+  <input type="submit" name="save" />
+</form>
