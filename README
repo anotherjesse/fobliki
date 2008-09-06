@@ -1,0 +1,15 @@
+Disclaimer: I have no clue what I'm doing...
+
+Fobliki
+=======
+
+A forum, blog, and wiki written in web.py that runs 
+on google's AppEngine.
+
+It is a simplification & generalization of the code 
+that runs my site (overstimulate.com), as well as an
+expansion to facility being more than a blog.
+
+Think: crappy CMS by a ruby programmer trying to code
+in python.  Ahh, now you know why you should go checkout
+Django 1.0!
